@@ -1,0 +1,14 @@
+C:\Users\Ideapad 3i\Desktop\Music\TabelaLinear\TabelaLinear\bin\Debug\net8.0\TabelaLinear.exe
+C:\Users\Ideapad 3i\Desktop\Music\TabelaLinear\TabelaLinear\bin\Debug\net8.0\TabelaLinear.deps.json
+C:\Users\Ideapad 3i\Desktop\Music\TabelaLinear\TabelaLinear\bin\Debug\net8.0\TabelaLinear.runtimeconfig.json
+C:\Users\Ideapad 3i\Desktop\Music\TabelaLinear\TabelaLinear\bin\Debug\net8.0\TabelaLinear.dll
+C:\Users\Ideapad 3i\Desktop\Music\TabelaLinear\TabelaLinear\bin\Debug\net8.0\TabelaLinear.pdb
+C:\Users\Ideapad 3i\Desktop\Music\TabelaLinear\TabelaLinear\obj\Debug\net8.0\TabelaLinear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ideapad 3i\Desktop\Music\TabelaLinear\TabelaLinear\obj\Debug\net8.0\TabelaLinear.AssemblyInfoInputs.cache
+C:\Users\Ideapad 3i\Desktop\Music\TabelaLinear\TabelaLinear\obj\Debug\net8.0\TabelaLinear.AssemblyInfo.cs
+C:\Users\Ideapad 3i\Desktop\Music\TabelaLinear\TabelaLinear\obj\Debug\net8.0\TabelaLinear.csproj.CoreCompileInputs.cache
+C:\Users\Ideapad 3i\Desktop\Music\TabelaLinear\TabelaLinear\obj\Debug\net8.0\TabelaLinear.dll
+C:\Users\Ideapad 3i\Desktop\Music\TabelaLinear\TabelaLinear\obj\Debug\net8.0\refint\TabelaLinear.dll
+C:\Users\Ideapad 3i\Desktop\Music\TabelaLinear\TabelaLinear\obj\Debug\net8.0\TabelaLinear.pdb
+C:\Users\Ideapad 3i\Desktop\Music\TabelaLinear\TabelaLinear\obj\Debug\net8.0\TabelaLinear.genruntimeconfig.cache
+C:\Users\Ideapad 3i\Desktop\Music\TabelaLinear\TabelaLinear\obj\Debug\net8.0\ref\TabelaLinear.dll
